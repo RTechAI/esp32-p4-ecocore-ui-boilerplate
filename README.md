@@ -1,3 +1,4 @@
+<img width="1282" height="750" alt="Splash Ecocore" src="https://github.com/user-attachments/assets/3918c2d8-4331-4aae-a0a0-49937aa4e770" />
 README
 # ESP32-P4 LVGL v9 UI Boilerplate — Cyberpunk Nexus Theme
 
